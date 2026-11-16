@@ -16,7 +16,7 @@ I develop methods and software for testing AI systems beyond whether they produc
 
 *The closest blood bank is not always the right one.*
 
-HemoGrid is a working emergency blood-dispatch prototype that combines inventory-aware supplier matching, advisory planning across competing requests, and human-approved stock reservations. My engineering contributions include dispatch planning and integration, inventory and concurrency safeguards, automated tests, and reproducible evaluation.
+HemoGrid is a working emergency blood-dispatch prototype that combines inventory-aware supplier matching, advisory planning across competing requests, and human-approved stock reservations. As the project's **technical lead**, I directed the system architecture and engineering work across the frontend, backend, dispatch planning, inventory and concurrency safeguards, integration, testing, and reproducible evaluation. The original project concept was proposed by Dennis Ikechukwu Okwuchukwu.
 
 The [unified repository](https://github.com/Grolds-Code/HemoGrid) contains the Next.js frontend and Spring Boot/PostgreSQL backend with their original Git histories and team attribution preserved.
 
