@@ -47,7 +47,7 @@ The [unified repository](https://github.com/Grolds-Code/HemoGrid) contains the N
 
 - **Overall First Place**, Terumo BCT Africa Hackathon 2026, with Team Relay for HemoGrid.
 - **First Place, Agriculture Category**, Adaption Labs AutoScientist Challenge 2026.
-- **WhyLab featured** in the XERJ Corpus Hub.
+- **WhyLab adopted** in the XERJ Corpus Hub.
 - **CausTab-Global selected** for the Prototypes for Humanity 2026 exhibition.
 
 ## Methods and tools
